@@ -9,10 +9,10 @@
   - https://gitee.com/wei-shenghua/tvlive/raw/main/wj.json
   - https://wanyanya.github.io/wj.json
 - 直播源推送地址：
-无更新- https://gitee.com/wei-shenghua/tvlive/raw/main/box/live/live.txt
-无更新- https://gitee.com/wei-shenghua/tvlive/raw/main/ipv6.m3u
-无更新- https://gitee.com/wei-shenghua/tvlive/raw/main/Default.m3u
-每天更新重庆电视台- https://wanyanya.github.io/box/live/live.txt
+- 无更新https://gitee.com/wei-shenghua/tvlive/raw/main/box/live/live.txt
+- 无更新https://gitee.com/wei-shenghua/tvlive/raw/main/ipv6.m3u
+- 无更新https://gitee.com/wei-shenghua/tvlive/raw/main/Default.m3u
+- 每天更新重庆电视台https://wanyanya.github.io/box/live/live.txt
 
 
   
