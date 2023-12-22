@@ -2,23 +2,23 @@
 更新时间20231220,http://tv.nxog.top/m/404/xjj.php
 
 📺重庆频道,#genre#
-重庆卫视,https://sjlivecdn9.cbg.cn/202312202255/app_2/_definst_/ls_2.stream/chunklist.m3u8
-重庆卫视,http://live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8?sig=8ad8bffd3a47bcbe46d92046350880ee&ext_start_limit=1703170616&int_start_limit=1703170616&expires=1703170616&c=null
+重庆卫视,https://sjlivecdn9.cbg.cn/202312220911/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆卫视,http://live.cbncdn.cn/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8?sig=b13da0602370dae1f35b020a7f2d9586&ext_start_limit=1703296407&int_start_limit=1703296407&expires=1703296407&c=null
 重庆新闻,http://113.207.84.197/session/c5f7a14c-9f4c-11ee-bcbe-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?token=7001b59ae32e9fddb81fa7f3b6950045_1703170325_1703170325
-重庆新闻,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVNewsHD/__op/default/__f/index.m3u8?sig=7ca8ff46051ece9a607d5556684e013b&ext_start_limit=1703170325&int_start_limit=1703170325&expires=1703170325&c=null
-重庆影视,http://113.207.84.199/session/d6614556-9f4c-11ee-94c9-5254004d191c$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?token=5382829b3838aca85a59ecbe61d339c9_1703165868_1703165868
+重庆新闻,https://sjlivecdn9.cbg.cn/202312220756/app_2/_definst_/ls_3.stream/chunklist.m3u8
+重庆影视,http://113.207.84.200/session/2dcf13f6-a06d-11ee-9016-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?token=7339913ba111736e1f9c168ecd67cef8_1703289684_1703289684
 重庆影视,http://live.cbncdn.cn/__cl/cg:live/__c/cqyingshiHD/__op/default/__f/index.m3u8?sig=879c95b24f3029f1eb634a8039ef06e2&ext_start_limit=1703165868&int_start_limit=1703165868&expires=1703165868&c=null
-重庆社会与法,http://113.207.84.197/session/e32fa94e-9f4c-11ee-a899-5254003e6f6f$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?token=534ea9d87cb2ee1a1c4c6a2e5c68c24b_1703167822_1703167822
+重庆社会与法,http://113.207.84.197/session/07462b48-a06d-11ee-a8a7-5254003e6f6f$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?token=88650e24b769c92b0dfce494e1f6606b_1703292202_1703292202
 重庆社会与法,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVTrendyHD/__op/default/__f/index.m3u8?sig=c596465db2150ca027bc7bae9614417f&ext_start_limit=1703167822&int_start_limit=1703167822&expires=1703167822&c=null
 重庆时尚生活,http://113.207.84.200/session/eef94302-9f4c-11ee-9016-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8?token=bcdc210561b98e324260c28493dd7d6b_1703167039_1703167039
-重庆时尚生活,http://live.cbncdn.cn/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8?sig=a7cc12b937bdd725c6f8abbc5202f737&ext_start_limit=1703167039&int_start_limit=1703167039&expires=1703167039&c=null
-重庆文体娱乐,http://113.207.84.199/session/f9c9e944-9f4c-11ee-94c9-5254004d191c$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8?token=a1777b2bf8cb825f7d51141efe54a8c2_1703167209_1703167209
+重庆时尚生活,http://113.207.84.199/session/0f7ea754-a06d-11ee-bcbe-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8?token=d96d243da1b4671fe050a2130e6dffe4_1703296476_1703296476
+重庆文体娱乐,http://113.207.84.199/session/f84eabba-a06c-11ee-94c9-5254004d191c$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8?token=7b2fd69de618c3cf661f00328b5f75ff_1703289729_1703289729
 重庆文体娱乐,http://live.cbncdn.cn/__cl/cg:live/__c/cqwtylHD/__op/default/__f/index.m3u8?sig=7136f2a5535e9f8d68c05ae8b8686de3&ext_start_limit=1703167209&int_start_limit=1703167209&expires=1703167209&c=null
-重庆新农村,http://live.cbncdn.cn/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8?sig=6f342990c4b597ea7d7fa6223168b1be&ext_start_limit=1703172767&int_start_limit=1703172767&expires=1703172767&c=null
+重庆新农村,http://113.207.84.197/session/1a7f71c4-a06d-11ee-a8a7-5254003e6f6f$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8?token=7db8bd63767d03779548fea794591cae_1703295780_1703295780
 重庆新农村,http://113.207.84.199/session/07a69396-9f4d-11ee-bcbe-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8?token=97f1d5aadbcdc20e653708041ec5c4f4_1703172767_1703172767
 重庆少儿,http://live.cbncdn.cn/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8?sig=f4ad66673eb1b5727229c22e0789830d&ext_start_limit=1703172159&int_start_limit=1703172159&expires=1703172159&c=null
 重庆少儿,http://113.207.84.199/session/14ae94c6-9f4d-11ee-83eb-5254006225bb$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8?token=f9761465e528cedf0ba3c9db298ba24d_1703172159_1703172159
-重庆科教,http://113.207.84.197/session/261f8256-9f4d-11ee-9016-525400dfb345$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8?token=9edaf9fde5bfe56e508a515cc13e5666_1703167558_1703167558
+重庆科教,http://113.207.84.196/session/227903ea-a06d-11ee-94c9-5254004d191c$h1.0$live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8?token=c38ceda3d07d4b235d50beaaaf8a88a1_1703294589_1703294589
 重庆科教,http://live.cbncdn.cn/__cl/cg:live/__c/CQTVkejiaoHD/__op/default/__f/index.m3u8?sig=a44534a7ec07e2a1151acf07a51212a6&ext_start_limit=1703167558&int_start_limit=1703167558&expires=1703167558&c=null
 
 🇨🇳央视频道,#genre#
