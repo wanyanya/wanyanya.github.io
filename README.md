@@ -16,6 +16,7 @@
 - 无更新：https://gitee.com/wei-shenghua/tvlive/raw/main/Default.m3u
 - 
 - 更新时间2023.1228：重庆电视台https://wanyanya.github.io/box/live/live.txt
+- 已挂暂时没有找到代替的源网址
 
 
   
